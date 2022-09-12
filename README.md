@@ -1,7 +1,7 @@
-Welcome to my BANANA SPEAK APP 🤑.
+Welcome to my BANANA SPEAK APP 🍌.
 
 Please find the link to the banana speak app below.
-Here you can translate any sentence from english to Minions language.
+Here you can translate any sentence from english to Minions language👽.
 
 https://banana-speaks-smitha.netlify.app/
 
